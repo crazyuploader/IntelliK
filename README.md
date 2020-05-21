@@ -18,14 +18,6 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 ├── gradle.properties
 ├── gradlew
 ├── gradlew.bat
-├── .idea
-│   ├── compiler.xml
-│   ├── gradle.xml
-│   ├── jarRepositories.xml
-│   ├── misc.xml
-│   ├── .name
-│   ├── vcs.xml
-│   └── workspace.xml
 ├── README.md
 ├── renovate.json
 ├── .semaphore
@@ -35,8 +27,12 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │   └── main
 │       └── kotlin
 │           └── examples
-│               └── Addition.kt
+│               └── maths
+│                   ├── Addition.kt
+│                   ├── Division.kt
+│                   ├── Multiplication.kt
+│                   └── Substraction.kt
 └── .travis.yml
 
-8 directories, 20 files
+8 directories, 16 files
 ```
