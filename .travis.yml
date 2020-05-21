@@ -1,0 +1,6 @@
+os: linux
+dist: bionic
+language: generic
+jdk: openjdk8
+script: |
+  ./gradlew build
