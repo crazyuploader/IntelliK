@@ -28,6 +28,7 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │       └── kotlin
 │           └── examples
 │               ├── EvenOdd.kt
+│               ├── Factorial.kt
 │               └── maths
 │                   ├── Addition.kt
 │                   ├── Division.kt
@@ -35,5 +36,5 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │                   └── Substraction.kt
 └── .travis.yml
 
-8 directories, 17 files
+8 directories, 18 files
 ```
