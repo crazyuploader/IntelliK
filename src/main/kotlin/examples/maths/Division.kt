@@ -9,5 +9,5 @@ fun main() {
     println("\nEnter Second Number")
     val secondNumber: Int? = Integer.valueOf(readLine())
 
-    println("\n$firstNumber divided by $secondNumber is = " + (firstNumber!! / secondNumber!!))
+    println("\n$firstNumber divided by $secondNumber is = " + firstNumber!! / secondNumber!!)
 }

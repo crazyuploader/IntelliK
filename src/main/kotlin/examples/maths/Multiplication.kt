@@ -9,5 +9,5 @@ fun main() {
     println("\nEnter Second Number")
     val secondNumber: Int? = Integer.valueOf(readLine())
 
-    println("\nProduct of $firstNumber & $secondNumber is = " + (firstNumber!! * secondNumber!!))
+    println("\nProduct of $firstNumber & $secondNumber is = " + firstNumber!! * secondNumber!!)
 }
