@@ -9,6 +9,7 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 ***DIRECTORY STRUCTURE***
 ---
 ```.
+├── build_all.sh
 ├── build.gradle
 ├── .gitignore
 ├── gradle
@@ -27,9 +28,11 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │   └── main
 │       └── kotlin
 │           └── examples
+│               ├── Base_Exponent_Power.kt
 │               ├── EvenOdd.kt
 │               ├── Factorial.kt
 │               ├── Greater_2.kt
+│               ├── Greater_3.kt
 │               └── maths
 │                   ├── Addition.kt
 │                   ├── Division.kt
@@ -37,5 +40,5 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │                   └── Substraction.kt
 └── .travis.yml
 
-8 directories, 19 files
+8 directories, 22 files
 ```
