@@ -3,15 +3,14 @@ package examples
 fun main() {
     println("///Base Exponent Power Program///")
     println("\nEnter Base: ")
-    var baseNumber: Int = Integer.valueOf(readLine())
+    val baseNumber: Int = Integer.valueOf(readLine())
     println("\nEnter Exponent: ")
     var exponentNumber: Int = Integer.valueOf(readLine())
-    var i: Int = 1
-    var finalNumber: Int = 1
-    while (i <= exponentNumber)
+    var result = 1
+    while (exponentNumber != 0)
     {
-        finalNumber *= baseNumber
-        i++
+        result *= baseNumber
+        exponentNumber--
     }
-    println("Answer: $finalNumber")
+    println("\nAnswer: $result")
 }
