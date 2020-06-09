@@ -1,5 +1,10 @@
 package examples
 
+/**
+ * Function which takes three number as input
+ * and displays the greatest one among them.
+ */
+
 fun main() {
     println("///Greater Number Program for 3 Numbers///")
     println("\nEnter First Number: ")

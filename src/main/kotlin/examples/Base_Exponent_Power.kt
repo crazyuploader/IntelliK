@@ -1,5 +1,10 @@
 package examples
 
+/**
+ * Function taking two inputs; a base and an exponent
+ * number, calculates the result and displays them.
+ */
+
 fun main() {
     println("///Base Exponent Power Program///")
     println("\nEnter Base: ")

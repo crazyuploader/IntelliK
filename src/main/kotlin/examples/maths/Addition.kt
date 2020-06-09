@@ -1,5 +1,10 @@
 package examples.maths
 
+/**
+ * Simple function which takes two number as input,
+ * adds them, and displays the result.
+ */
+
 fun main() {
 
     println("///Addition Program///")

@@ -1,5 +1,10 @@
 package examples.maths
 
+/**
+ * Function to perform division mathematical operation
+ * on two entered numbers.
+ */
+
 fun main() {
     println("///Division Program")
 

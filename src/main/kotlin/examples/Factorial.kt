@@ -1,5 +1,10 @@
 package examples
 
+/**
+ * Function which takes a number and displays
+ * its factorial/
+ */
+
 fun main() {
     println("///Factorial Program///")
     println("\nEnter number: ")

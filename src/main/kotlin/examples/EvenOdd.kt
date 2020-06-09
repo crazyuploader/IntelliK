@@ -1,5 +1,10 @@
 package examples
 
+/**
+ * Function which takes a number and displays
+ * whether the entered number is an odd or even.
+ */
+
 fun main() {
     println("///Even Odd program///")
     println("\nEnter Number: ")

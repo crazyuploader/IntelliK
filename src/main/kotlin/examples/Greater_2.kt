@@ -1,5 +1,10 @@
 package examples
 
+/**
+ * Function which takes two number as input
+ * and displays greater number among them.
+ */
+
 fun main() {
     println("///Greater Number Program///")
     println("\nEnter First Number: ")

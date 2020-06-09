@@ -1,5 +1,10 @@
 package examples.maths
 
+/**
+ * Function which takes two number as input, and displays
+ * the difference between them.
+ */
+
 fun main() {
     println("///Program for Subtraction///")
 

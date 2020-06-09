@@ -1,5 +1,11 @@
 package examples.maths
 
+/**
+ * Function which takes two number as input,
+ * performs multiplication operating and displays
+ * the result.
+ */
+
 fun main() {
     println("///Multiplication Program///")
 
