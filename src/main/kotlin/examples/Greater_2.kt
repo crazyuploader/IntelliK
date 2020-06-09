@@ -6,10 +6,12 @@ fun main() {
     val firstNumber: Int = Integer.valueOf(readLine())
     println("\nEnter Second Number: ")
     val secondNumber: Int = Integer.valueOf(readLine())
+    var greatestNumber = 0
     if (firstNumber > secondNumber) {
-        println("\nGreater Number between $firstNumber & $secondNumber is = $firstNumber")
+        greatestNumber = firstNumber
     }
     else {
-        println("\nGreater Number between $firstNumber & $secondNumber is = $secondNumber")
+        greatestNumber = secondNumber
     }
+    println("\nGreater Number between $firstNumber & $secondNumber is = $greatestNumber")
 }

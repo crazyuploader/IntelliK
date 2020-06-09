@@ -8,7 +8,7 @@ fun main() {
     val secondNumber: Int = Integer.valueOf(readLine())
     println("\nEnter Third Number: ")
     val thirdNumber: Int = Integer.valueOf(readLine())
-    var greatestNumber: Int = 0
+    var greatestNumber = 0
     if (firstNumber > secondNumber) {
         if (firstNumber > thirdNumber) {
             greatestNumber = firstNumber
