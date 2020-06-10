@@ -1,5 +1,9 @@
 package examples
 
+/**
+ * Function to reverse an entered number.
+ */
+
 fun main() {
     println("///Program to Reverse an Entered Number///")
     println("\nEnter a Number: ")
