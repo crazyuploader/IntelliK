@@ -42,8 +42,9 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │               │   ├── Division.kt
 │               │   ├── Multiplication.kt
 │               │   └── Substraction.kt
+│               ├── Palindrome.kt
 │               └── Reverse.kt
 └── .travis.yml
 
-10 directories, 24 files
+10 directories, 25 files
 ```
