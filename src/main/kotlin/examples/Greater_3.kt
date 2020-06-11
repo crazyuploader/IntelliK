@@ -13,7 +13,7 @@ fun main() {
     val secondNumber: Int = Integer.valueOf(readLine())
     println("\nEnter Third Number: ")
     val thirdNumber: Int = Integer.valueOf(readLine())
-    var greatestNumber: Int
+    val greatestNumber: Int
     if (firstNumber > secondNumber) {
         if (firstNumber > thirdNumber) {
             greatestNumber = firstNumber
