@@ -32,6 +32,7 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │   └── main
 │       └── kotlin
 │           └── examples
+│               ├── Average.kt
 │               ├── Base_Exponent_Power.kt
 │               ├── EvenOdd.kt
 │               ├── Factorial.kt
@@ -43,8 +44,9 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │               │   ├── Multiplication.kt
 │               │   └── Substraction.kt
 │               ├── Palindrome.kt
-│               └── Reverse.kt
+│               ├── Reverse.kt
+│               └── Table.kt
 └── .travis.yml
 
-10 directories, 25 files
+10 directories, 27 files
 ```
