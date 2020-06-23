@@ -38,15 +38,17 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │               ├── Factorial.kt
 │               ├── Greater_2.kt
 │               ├── Greater_3.kt
+│               ├── Hello.kt
 │               ├── maths
 │               │   ├── Addition.kt
 │               │   ├── Division.kt
 │               │   ├── Multiplication.kt
 │               │   └── Substraction.kt
 │               ├── Palindrome.kt
+│               ├── Prime.kt
 │               ├── Reverse.kt
 │               └── Table.kt
 └── .travis.yml
 
-10 directories, 27 files
+10 directories, 29 files
 ```
