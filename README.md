@@ -32,6 +32,7 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │   └── main
 │       └── kotlin
 │           └── examples
+│               ├── Armstrong.kt
 │               ├── Average.kt
 │               ├── Base_Exponent_Power.kt
 │               ├── EvenOdd.kt
@@ -50,5 +51,5 @@ Collection of Kotlin programs coming from IntelliJ IDEA IDE
 │               └── Table.kt
 └── .travis.yml
 
-10 directories, 29 files
+10 directories, 30 files
 ```
