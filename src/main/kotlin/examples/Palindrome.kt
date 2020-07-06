@@ -18,9 +18,9 @@ fun main() {
         enteredNumber /= 10
     }
     if (palindrome == b) {
-        println("Entered Number $palindrome is a Palindrome Number.")
+        println("\nEntered Number $palindrome is a Palindrome Number.")
     }
     else {
-        println("Entered Number $palindrome is not a Palindrome Number.")
+        println("\nEntered Number $palindrome is not a Palindrome Number.")
     }
 }
