@@ -14,7 +14,7 @@ fun main() {
     var a = 0
     while (temp > 0) {
         a = temp % 10
-        total += (a * a * a)
+        total += a * a * a
         temp /= 10
     }
     if (total == number) {
