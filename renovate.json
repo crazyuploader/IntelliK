@@ -1,8 +1,4 @@
 {
-  "extends": [
-    "config:base"
-  ],
-  "reviewers": [
-    "crazyuploader"
-  ]
+  "extends": ["config:base"],
+  "reviewers": ["crazyuploader"]
 }
