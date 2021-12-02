@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/crazyuploader/IntelliK.svg?branch=master)](https://travis-ci.com/crazyuploader/IntelliK)
 [![Build Status](https://crazyuploader.semaphoreci.com/badges/IntelliK.svg)](https://crazyuploader.semaphoreci.com/projects/IntelliK)
 [![CodeFactor](https://www.codefactor.io/repository/github/crazyuploader/intellik/badge)](https://www.codefactor.io/repository/github/crazyuploader/intellik)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5bb69ae7b84749f08fbdf9519db09848)](https://www.codacy.com/manual/jugalkishor839/IntelliK?utm_source=github.com&utm_medium=referral&utm_content=crazyuploader/IntelliK&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/486d4863d8474a5598d1a1334c2cebee)](https://www.codacy.com/gh/crazyuploader/IntelliK/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=crazyuploader/IntelliK&amp;utm_campaign=Badge_Grade)
 
 Collection of Kotlin programs coming from IntelliJ IDEA IDE
 
